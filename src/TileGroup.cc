@@ -51,4 +51,3 @@ void TileGroup::Draw()
     tile->Draw();
   }
 }
-
